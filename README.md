@@ -11,3 +11,5 @@ Commands for git
 esc - :wq! - enter 
 git commit -m "message"
 git checkout   checksout the branch
+
+- git merge   merge changes from one repository into another

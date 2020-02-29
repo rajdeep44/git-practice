@@ -14,6 +14,6 @@ git checkout   checksout the branch
 
 - git merge   merge changes from one repository into another repository
 
-- merging means to bring changes from one repository into another
+- merging means to bring changes from one repository into another repository
 
 - fast forward merge happens when the target was branched from the current one and there are no new changesto the current branch since then

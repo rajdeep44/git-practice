@@ -13,3 +13,5 @@ git commit -m "message"
 git checkout   checksout the branch
 
 - git merge   merge changes from one repository into another
+
+- merging means to bring changes from one repository into another

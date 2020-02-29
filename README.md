@@ -10,3 +10,6 @@ Commands for git
 -i to enter inster mode
 esc - :wq! - enter 
 git commit -m "message"
+
+- git branch branch_name
+- git checkout   checksout the branch

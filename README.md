@@ -16,7 +16,7 @@ git checkout   checksout the branch
 git remote add <remote> <url>: Add a new <remote> at <url>
 git remote -v:   lists the remote repositories
 git push -u <remote> <branch>:   Push <branch> to <remote> and set default upstream for <branch>
-
+git fetch:  Fetch changes from remote repo 
 
 - git merge   the merge changes from one repository into another
 

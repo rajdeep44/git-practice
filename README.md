@@ -12,6 +12,7 @@ esc - :wq! - enter
 git commit -m "message"
 git checkout   checksout the branch
 
+
 - git merge   the merge changes from one repository into another
 
 - merging means to bring changes from one repository into another
